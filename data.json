@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "Allen Raymond",
+      "email": "nulla.ante@vestibul.co.uk",
+      "phone": "(992) 914-3792",
+      "favorite": false
+    },
+    {
+      "name": "Vasya Pupkin",
+      "email": "vasya.pupkin@gmail.com",
+      "phone": "(992) 111-2222",
+      "favorite": true
+    }
+  ]
+}
